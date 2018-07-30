@@ -1,0 +1,44 @@
+.parent{
+  display:flex;
+  flex-direction:row;
+  justify-content:center;
+}
+.child{
+  background:#fff;
+  border:2px solid #8456B2;
+  padding:2%;
+  margin:2%;
+  box-shadow:3px 3px 3px #ddd;
+
+}
+img{
+  width:200px;
+  height:200px;
+  border-radius:100%;
+  border:2px solid #8456B2;
+}
+h3,
+h2{
+  text-align:center;
+}
+a{
+  display:block;
+  text-align: center;
+  margin-left:auto;
+  text-decoration:none;
+  background:#8456B2;
+  color:#fff;
+  padding:2%;
+}
+.leftChild{
+  width:30%;
+  border:2px solid #13ECEC;
+  padding:2%;
+  margin:2%;
+}
+.rightChild{
+  width:70%;
+  border:2px solid #C296D8;
+  padding:2%;
+  margin:2%;
+}
