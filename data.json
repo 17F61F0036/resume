@@ -26,20 +26,35 @@
   ],
   "skills":[
     {
-      "title":"Programming Languages :",
-      "set":["Java","C","Python","c++"]
-    },
-    {
       "title":"Web Technologies      :",
-      "set":["javascript","CSS","HTML","PHP"]
+      "set":["Javascript","CSS","HTML","PHP"]
     },
     {
-      "title":"Data Bases            :",
-      "set":["Sybase","mysql","sql","Oracle","NoSql"]
+      "title":"Programming Languages :",
+      "set":["C","Python","Java","c++"]
     },
     {
       "title":"Operating Systems     :",
-      "set":["windows","Linux","Android","Ubuntu"]
+      "set":["Windows","Linux","Android","Ubuntu"]
+    },
+    {
+      "title":"Data Bases            :",
+      "set":["Sybase","Mysql","sql","Oracle","NoSql"]
+    }
+
+  ],
+  "achievements":[
+    {
+      "achivedData":"Got <strong>1<sup>st</sup></strong>Prize in Poster Presentation."
+    },
+    {
+      "achivedData":"Got <strong>2<sup>nd</sup></strong>Prize in Short Film."
+    },
+    {
+      "achivedData":"Got <strong>3<sup>rd </sup></strong>Prize in PPT Presentation."
+    },
+    {
+      "achivedData":"Got <strong>3<sup>rd</sup></strong>Prize in Addjob."
     }
   ]
 }
